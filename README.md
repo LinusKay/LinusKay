@@ -1,4 +1,4 @@
 ### Hey 👋👋👋
 
-![](https://raw.githubusercontent.com/linuskay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/linuskay/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=linuskay&hide=contribs&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuskay&hide=yacc&exclude_repo=if_else&layout=compact&theme=dracula)
